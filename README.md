@@ -25,3 +25,5 @@ Analyzed medical data to build a predictive model that assesses the risk of hear
 6. Plant Disease Detection (Jupyter Notebook)
 Language: Python | Tech Stack: CNN, Matplotlib, Keras
 Focused on detecting multiple plant diseases using deep learning models. Visualized data insights using plots and provided classification metrics like accuracy, precision, and recall. Complementary to the ZIP-based crop project, but presented in notebook format for experimentation.
+
+📚 Tools & Technologies- Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, OpenCV, Jupyter Notebook, Google Colab
